@@ -85,7 +85,7 @@ AWS Lambda automatically creates a new log group per function in Amazon CloudWat
 1. Choose **Yes, Delete** when prompted to confirm.
 1. If you launched any CloudFormation templates to complete a module, repeat steps 3-5 for any log groups which begin with `/aws/lambda/wildrydes-webapp`.
 
-### 8. Cloud9 Cleanup
+### Cloud9 Cleanup
 Delete the Cloud9 Development environment created today. 
 
 **Step-by-step directions**
