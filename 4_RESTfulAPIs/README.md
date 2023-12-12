@@ -120,7 +120,7 @@ Update the /js/config.js file in the website deployment to include the invoke UR
             region: 'us-west-2' // e.g. us-east-2
         },
         api: {
-            invokeUrl: 'https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod,
+            invokeUrl: 'https://0xicwb6wuj.execute-api.us-east-1.amazonaws.com/Prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod,
         }
     };
     ```
@@ -167,7 +167,7 @@ See the [cleanup guide][cleanup] for instructions on how to delete the resources
 [amplify-console-console]: https://console.aws.amazon.com/amplify/home
 [api-gw]: https://aws.amazon.com/api-gateway/
 [api-gw-console]: https://console.aws.amazon.com/apigateway/home
-[cleanup]: ../9_CleanUp/
+[cleanup]: ../5_CleanUp/
 [cognito-console]: https://console.aws.amazon.com/cognito/home
 [cognito]: https://aws.amazon.com/cognito/
 [configjs]: ../1_StaticWebHosting/website/js/config.js
