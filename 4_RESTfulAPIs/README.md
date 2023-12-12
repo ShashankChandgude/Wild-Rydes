@@ -120,7 +120,7 @@ Update the /js/config.js file in the website deployment to include the invoke UR
             region: 'us-west-2' // e.g. us-east-2
         },
         api: {
-            invokeUrl: 'https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod,
+            invokeUrl: 'https://0xicwb6wuj.execute-api.us-east-1.amazonaws.com/Prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod,
         }
     };
     ```
