@@ -12,9 +12,6 @@ This module will focus on the steps required to build the cloud components of th
 
 ## Implementation Instructions
 
-:heavy_exclamation_mark: Ensure we've completed the [Serverless Backend][serverless-backend] step before beginning
-the workshop.
-
 Each of the following sections provides an implementation overview and detailed, step-by-step instructions. The overview should provide enough context to complete the implementation.
 
 ### 1. Create a New REST API
